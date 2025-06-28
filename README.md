@@ -3,6 +3,10 @@
 This project is a hands-on Kafka streaming pipeline built as part of **Darshil Parmar's Apache Kafka course on DataVidhya**. 
 It demonstrates how to fetch real-time Citi Bike NYC data from public APIs, produce it to Kafka topics, and consume it using simple Python scripts — helping you understand the core concepts of Kafka in practice.
 
+## 🧩 Project Architecture
+
+![City Bike Kafka Architecture](./docs/architecture.png)
+
 ## 📁 Project Structure
 ```bash
 city-bike-project/
